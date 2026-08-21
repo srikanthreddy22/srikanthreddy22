@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8f8a-fc31da9f5a3d.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:a78bfa,100:5eead4&height=3&section=header" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -97,7 +97,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8f8a-fc31da9f5a3d.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:a78bfa,100:5eead4&height=3&section=header" width="100%"/>
 
 ## 🧠 &nbsp; Tech Arsenal
 
@@ -136,7 +136,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8f8a-fc31da9f5a3d.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:a78bfa,100:5eead4&height=3&section=header" width="100%"/>
 
 ## 🚀 &nbsp; Featured Projects
 
@@ -191,7 +191,7 @@ Smart predictive hospital resource management platform — forecasts demand for 
 <sub>📌 &nbsp; More projects pinned below — explore my repositories for full source code & demos</sub>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8f8a-fc31da9f5a3d.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:a78bfa,100:5eead4&height=3&section=header" width="100%"/>
 
 ## 🏆 &nbsp; Achievements & Experience
 
@@ -207,7 +207,7 @@ Smart predictive hospital resource management platform — forecasts demand for 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8f8a-fc31da9f5a3d.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:a78bfa,100:5eead4&height=3&section=header" width="100%"/>
 
 ## 📊 &nbsp; GitHub Analytics
 
@@ -223,19 +223,26 @@ Smart predictive hospital resource management platform — forecasts demand for 
 
 ### 🐍 &nbsp; Contribution Snake
 
-<img src="https://raw.githubusercontent.com/srikanthreddy22/srikanthreddy22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--
+  To enable the animated snake above your contribution graph:
+  1. Add a workflow file at .github/workflows/snake.yml using the Platane/snk action
+     (https://github.com/Platane/snk)
+  2. Once it runs once, uncomment the line below — it will point to the generated SVG.
 
-<sub>✨ Animates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is added to this repo</sub>
+  <img src="https://raw.githubusercontent.com/srikanthreddy22/srikanthreddy22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+-->
+
+<sub>✨ Coming soon — will animate once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is added to this repo (ask me and I'll set it up)</sub>
 
 <br/><br/>
 
 ### 🏅 &nbsp; Trophy Room
 
-<img src="https://github-profile-trophy.vercel.app/?username=srikanthreddy22&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=srikanthreddy22&row=1&column=7"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8f8a-fc31da9f5a3d.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:a78bfa,100:5eead4&height=3&section=header" width="100%"/>
 
 ## 🎯 &nbsp; Currently
 
@@ -251,7 +258,7 @@ Smart predictive hospital resource management platform — forecasts demand for 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8f8a-fc31da9f5a3d.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:a78bfa,100:5eead4&height=3&section=header" width="100%"/>
 
 <div align="center">
 
